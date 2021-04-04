@@ -1,8 +1,8 @@
 ### Hello World
 
 <a href="https://github.com/DiegoBreskovit">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DiegoBreskovit&theme=radical&show_icons=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoBreskovit&layout=compact&langs_count=8&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiegoBreskovit&theme=radical&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DiegoBreskovit&layout=compact&langs_count=8&theme=radical"/>
 <div style="display: inline_block"><br>
 
 
