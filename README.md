@@ -27,7 +27,7 @@
 
   
   <a href="https://codepen.io/diegobreskovit"><img src="https://img.shields.io/badge/codepen-1a1b27?style=for-the-badge&logo=codepen&logoColor=9644CD" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" target="_blank"></a>
   <a href="https://github.com/DiegoBreskovit" target="_blank"><img src="https://img.shields.io/badge/github-1a1b27?style=for-the-badge&logo=github&logoColor=9644CD" target="_blank"></a>
   <a href = "https://twitter.com/dBreskovit" target="_blank"><img src="https://img.shields.io/badge/Twitter-1a1b27?style=for-the-badge&logo=twitter&logoColor=9644CD" target="_blank"></a>
   <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank"><img src="https://img.shields.io/badge/Whatsapp-1a1b27?style=for-the-badge&logo=whatsapp&logoColor=9644CD" target="_blank"></a>
