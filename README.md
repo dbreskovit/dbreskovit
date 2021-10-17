@@ -27,8 +27,7 @@
     name: 'Diego Breskovit',
     age: 16,
     birthday: '25/08',
-    city: NaN,
-    hobby: 'I love to play game'
+    city: NaN
   });
 
   return response.status(201).send();
