@@ -36,7 +36,7 @@
 ### <img src="Assets/hmm.gif" width="20px"> Curiosities:
 
 - 🌱 Learning many things;
-- 📚 Also Computer technician student at IFFAR/SA;
+- 📚 Also Computer technician student at IFFAR/SA.
 
 ### <img src="Assets/powerup.gif" width="20px"> Technologies:
 
