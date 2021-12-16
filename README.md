@@ -37,7 +37,6 @@
 
 - 🌱 Learning many things;
 - 📚 Also Computer technician student at IFFAR/SA;
-- 💜 Loves: Games, music and coffee. 
 
 ### <img src="Assets/powerup.gif" width="20px"> Technologies:
 
