@@ -52,15 +52,15 @@
 
 <br>
 
-## GitHub Stats <img src="Assets/PC.gif" width="100px" align="right">
+## <img src="Assets/PC.gif" width="40px"> GitHub Stats
 
 <p align="center">
-   <img 
-     align="center"
-     width="40%" 
-     src="https://github-readme-stats.vercel.app/api?username=dbreskovit&theme=radical&show_icons=true&hide_border=true"/>
-   <img
+  <img
     align="center"
     width="40%" 
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dbreskovit&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  <img 
+     align="center"
+     width="40%" 
+     src="https://github-readme-stats.vercel.app/api?username=dbreskovit&theme=radical&show_icons=true&hide_border=true"/>
 </p>
