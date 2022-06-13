@@ -1,4 +1,4 @@
-## Hello World! <img src="Assets/earth.gif" width="25px">
+## Hello World! <img src="Assets/earth.gif" width="25px" height="25px"/>
 <img src="Assets/banner.gif" cite="https://galoupop.tumblr.com/image/145423398021">
 <samp>
   <p align="center">
@@ -33,12 +33,12 @@
   return response.status(201).send();
 ```
 
-### <img src="Assets/hmm.gif" width="20px"> Curiosities:
+### <img src="Assets/hmm.gif" width="25px" height="25px"> Curiosities:
 
 - 🌱 Learning many things;
 - 📚 Also Computer technician student at IFFAR/SA.
 
-### <img src="Assets/powerup.gif" width="20px"> Technologies:
+### <img src="Assets/powerup.gif" width="25px" height="25px"> Technologies:
 
 <p align="left">
   <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
@@ -52,7 +52,7 @@
 
 <br>
 
-## <img src="Assets/PC.gif" width="40px"> GitHub Stats
+## GitHub Stats <img src="Assets/PC.gif" width="100px" height="100px" align="right"> 
 
 <p align="center">
   <img
