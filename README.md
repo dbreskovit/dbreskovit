@@ -25,9 +25,8 @@
   ```javascript
   async user.index({
     name: 'Diego Breskovit',
-    age: 16,
-    birthday: '25/08',
-    city: NaN
+    age: 17,
+    birthday: '25/08'
   });
 
   return response.status(201).send();
