@@ -42,11 +42,16 @@
 <p align="left">
   <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
   <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
   <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"> 
+  <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">      
+  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
 
 <br>
