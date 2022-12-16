@@ -63,7 +63,7 @@ return response.status(201).send();
   <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p> -->
 
-![Minhas Habilidades](https://skillicons.dev/icons?i=bootstrap,html,css,js,cs,php,mysql,java,py,react,nodejs,nestjs,laravel,wordpress,git)
+![Minhas Habilidades](https://skillicons.dev/icons?i=bootstrap,html,css,js,cs,php,java,py,react,nodejs,nestjs,laravel,wordpress,git)
 
 ## GitHub Stats <img src="Assets/PC.gif" width="100px" height="100px" align="right">
 
