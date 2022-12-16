@@ -87,4 +87,4 @@ return response.status(201).send();
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=radical&hide_border=true">
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=footer"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=footer"/>-->
