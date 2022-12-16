@@ -20,8 +20,16 @@
         <img src="https://img.shields.io/badge/Twitter-1a1b27?style=for-the-badge&logo=twitter&logoColor=9644CD" alt="Twitter">
     </a>
     </a>
+        <a href="https://dbreskovit.itch.io/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/itch.io-1a1b27?style=for-the-badge&logo=itch.io&logoColor=9644CD" alt="Itch.io">
+    </a>
+    </a>
         <a href="https://api.whatsapp.com/send?phone=5555981072942" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Whatsapp-1a1b27?style=for-the-badge&logo=whatsapp&logoColor=9644CD" alt="Twitter">
+    </a>
+    </a>
+        <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/youtube-1a1b27?style=for-the-badge&logo=youtube&logoColor=9644CD" alt="?">
     </a>
   </p>
 </samp>
