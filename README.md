@@ -6,25 +6,25 @@
 
 <samp>
   <p align="center">
-    <a href="#" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/codepen-1a1b27?style=for-the-badge&logo=codepen&logoColor=9644CD" alt="Codepen">
+    <a href="https://www.linkedin.com/in/dbreskovit/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="Linkedin">
     </a>
-    <a href="#" target="_blank" style="text-decoration: none;">
+    <a href="diegobresko@gmail.com" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" alt="Email">
     </a>
-        <a href="#" target="_blank" style="text-decoration: none;">
+        <a href="https://github.com/dbreskovit" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/github-1a1b27?style=for-the-badge&logo=github&logoColor=9644CD" alt="Github">
     </a>
     </a>
-        <a href="#" target="_blank" style="text-decoration: none;">
+        <a href="https://twitter.com/dbreskovit" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Twitter-1a1b27?style=for-the-badge&logo=twitter&logoColor=9644CD" alt="Twitter">
     </a>
     </a>
-        <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank" style="text-decoration: none;">
+        <a href="https://api.whatsapp.com/send?phone=5555981072942" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Whatsapp-1a1b27?style=for-the-badge&logo=whatsapp&logoColor=9644CD" alt="Twitter">
     </a>
   </p>
-  </samp>
+</samp>
 
 ```javascript
 async user.index({
