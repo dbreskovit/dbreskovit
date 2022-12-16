@@ -39,7 +39,7 @@ async user.index({
 
 return response.status(201).send();
 ```
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=header"/>
+
 
 ### <img src="Assets/hmm.gif" width="25px" height="25px"> Curiosities:
 
@@ -65,8 +65,6 @@ return response.status(201).send();
 
 ![Minhas Habilidades](https://skillicons.dev/icons?i=bootstrap,html,css,js,cs,php,mysql,java,py,react,nodejs,nestjs,laravel,wordpress,git)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=footer"/>
-
 ## GitHub Stats <img src="Assets/PC.gif" width="100px" height="100px" align="right">
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdbreskovit&label=Views&labelColor=%23141321&countColor=%23fe428e)
@@ -75,7 +73,11 @@ return response.status(201).send();
 <br>
 <img align="left" height="415px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbreskovit&langs_count=8&theme=radical&hide_border=true">
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=header"/>
+
 <div align="right">
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=dbreskovit&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=radical&hide_border=true">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=radical&hide_border=true">
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=footer"/>
