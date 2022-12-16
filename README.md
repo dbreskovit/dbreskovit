@@ -58,13 +58,10 @@
 
 ## GitHub Stats <img src="Assets/PC.gif" width="100px" height="100px" align="right"> 
 
-<p align="center">
-  <img
-    align="center"
-    width="40%" 
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dbreskovit&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-  <img 
-     align="center"
-     width="40%" 
-     src="https://github-readme-stats.vercel.app/api?username=dbreskovit&theme=radical&show_icons=true&hide_border=true"/>
-</p>
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=dbreskovit&theme=rogue&hide_border=true&line=fe428e&bg_color=141321&title_color=fe428e">
+<br><br>
+<img align="left" height="370px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbreskovit&langs_count=8&theme=radical&hide_border=true">
+<div align="right">
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=dbreskovit&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=radical&hide_border=true">
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=radical&hide_border=true">
+</div>
