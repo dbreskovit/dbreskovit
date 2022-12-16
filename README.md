@@ -1,7 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=header"/>
-
 ## Hello World! <img src="Assets/earth.gif" width="25px" height="25px"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=header"/>
 <img src="Assets/banner.gif" cite="https://galoupop.tumblr.com/image/145423398021">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9644CD&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Diego+Breskovit;I+am+Software+Developer;I+am+a+UX+Designer;And+in+my+spare+time+I+program+games;Future+Computer+Scientist;Welcome+to+my+Github+:%29)
