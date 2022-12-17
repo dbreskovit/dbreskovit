@@ -9,10 +9,7 @@
     <a href="https://www.linkedin.com/in/dbreskovit/" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/linkedin-1a1b27?style=for-the-badge&logo=linkedin&logoColor=9644CD" alt="Linkedin">
     </a>
-    <a href="mailto:diegobresko@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=9644CD" alt="Email">
-    </a>
-        <a href="https://github.com/dbreskovit" target="_blank" style="text-decoration: none;">
+    <a href="https://github.com/dbreskovit" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/github-1a1b27?style=for-the-badge&logo=github&logoColor=9644CD" alt="Github">
     </a>
     </a>
