@@ -56,7 +56,7 @@ return response.status(201).send();
 - 📖 Currently reading about: Clean Code: A Handbook of Agile Software Craftsmanship;
 - 💬 Ask me about anything, I'll be happy to help;
 - 📫 How to reach me: [diegobresko@gmail.com](mailto:diegobresko@gmail.com).
-- 📜 Curriculum vitæ: [https://lattes.cnpq.br/9835662817134449](https://lattes.cnpq.br/9835662817134449)
+- 📜 Curriculum vitæ: [Lattes](https://lattes.cnpq.br/9835662817134449)
 
 ### <img src="Assets/powerup.gif" width="25px" height="25px"> Technologies:
 
