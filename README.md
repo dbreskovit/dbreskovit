@@ -55,8 +55,7 @@ return response.status(201).send();
 - 📚  I want to study computer science;
 - 📖  Currently reading about: Clean Code: A Handbook of Agile Software Craftsmanship;
 - 💬  Ask me about anything, I'll be happy to help;
-- 📜  Curriculum vitæ: [Lattes](https://lattes.cnpq.br/9835662817134449)
-- 📫  How to reach me: [diegobresko@gmail.com](mailto:diegobresko@gmail.com).
+- 📜  Curriculum vitæ: [Lattes](https://lattes.cnpq.br/9835662817134449).
 
 ### <img src="Assets/powerup.gif" width="25px" height="25px"> Technologies:
 
