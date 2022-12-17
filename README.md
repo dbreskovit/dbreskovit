@@ -50,13 +50,13 @@ return response.status(201).send();
 
 ### <img src="Assets/hmm.gif" width="25px" height="25px"> Curiosities:
 
-- 🌱 Learning many things;
-- 🎓 I attended the Computer Technician integrated to high school at IFFar SA;
-- 📚 I want to study computer science;
-- 📖 Currently reading about: Clean Code: A Handbook of Agile Software Craftsmanship;
-- 💬 Ask me about anything, I'll be happy to help;
-- 📫 How to reach me: [diegobresko@gmail.com](mailto:diegobresko@gmail.com).
-- 📜 Curriculum vitæ: [Lattes](https://lattes.cnpq.br/9835662817134449)
+- 🌱  Learning many things;
+- 🎓  I attended the Computer Technician integrated to high school at IFFar SA;
+- 📚  I want to study computer science;
+- 📖  Currently reading about: Clean Code: A Handbook of Agile Software Craftsmanship;
+- 💬  Ask me about anything, I'll be happy to help;
+- 📜  Curriculum vitæ: [Lattes](https://lattes.cnpq.br/9835662817134449)
+- 📫  How to reach me: [diegobresko@gmail.com](mailto:diegobresko@gmail.com).
 
 ### <img src="Assets/powerup.gif" width="25px" height="25px"> Technologies:
 
