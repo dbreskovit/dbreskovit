@@ -34,8 +34,7 @@ async user.index({
   birthday: '25/08',
   vocation: 'Programming',
   formation: ['Téc. Info IFFar SA'],
-  nationality: 'Brazilian',
-  company: null
+  nationality: 'Brazilian'
 });
 
 return response.status(201).send();
