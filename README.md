@@ -50,7 +50,7 @@ return response.status(201).send();
 - 🌱  Learning many things;
 - 🎓  I attended the Computer Technician integrated to high school at IFFar SA;
 - 📚  I want to study computer science;
-- 📖  Currently reading about: Clean Code: A Handbook of Agile Software Craftsmanship;
+- 📖  Currently reading about: Clean Code;
 - 💬  Ask me about anything, I'll be happy to help;
 - 📜  Curriculum vitæ: [Lattes](https://lattes.cnpq.br/9835662817134449).
 
