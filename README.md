@@ -46,8 +46,7 @@ return response.status(201).send();
 - 🎓  I attended the Computer Technician integrated to high school at IFFar SA;
 - 📚  I want to study computer science;
 - 📖  Currently reading about: Clean Code;
-- 💬  Ask me about anything, I'll be happy to help;
-- 📜  Curriculum vitæ: [Lattes](https://lattes.cnpq.br/9835662817134449).
+- 💬  Ask me about anything, I'll be happy to help.
 
 ### <img src="Assets/powerup.gif" width="25px" height="25px"> Technologies:
 
