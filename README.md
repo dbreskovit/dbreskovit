@@ -2,7 +2,7 @@
 
 <img src="Assets/banner.gif" cite="https://galoupop.tumblr.com/image/145423398021">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9644CD&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Diego+Breskovit;I+am+Software+Developer;I+am+a+UX+Designer;And+in+my+spare+time+I+program+games;Future+Computer+Scientist;Welcome+to+my+Github+:%29)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9644CD&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Diego+Breskovit;I+am+Software+Developer;Future+Computer+Scientist;Welcome+to+my+Github+:%29)
 
 <samp>
   <p align="center">
@@ -50,21 +50,6 @@ return response.status(201).send();
 
 ### <img src="Assets/powerup.gif" width="25px" height="25px"> Technologies:
 
-<!-- <p align="left">
-  <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
-  <img width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img width="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-</p> -->
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js,ts,c,cs,php,java,py,react,nodejs,laravel,spring)" />
@@ -77,7 +62,7 @@ return response.status(201).send();
 
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=dbreskovit&theme=rogue&hide_border=true&line=fe428e&bg_color=141321&title_color=fe428e">
 
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=header"/>-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=header"/>
 
 <img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbreskovit&langs_count=8&theme=radical&hide_border=true">
 <div align="right">
@@ -85,4 +70,4 @@ return response.status(201).send();
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=radical&hide_border=true">
 </div>
 
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=footer"/>-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=footer"/>
