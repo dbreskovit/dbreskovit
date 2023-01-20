@@ -62,12 +62,13 @@ return response.status(201).send();
 
 <img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=dbreskovit&theme=rogue&hide_border=true&line=fe428e&bg_color=141321&title_color=fe428e">
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=header"/>
-
 <img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbreskovit&langs_count=8&theme=radical&hide_border=true">
 <div align="right">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=dbreskovit&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=radical&hide_border=true">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=radical&hide_border=true">
 </div>
 
+<!--
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=header"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=footer"/>
+-->
