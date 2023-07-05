@@ -43,10 +43,16 @@ async user.index({
 return response.status(201).send();
 ```
 
+<a href="https://discord.com/users/855299071673368646">
+  <img src="https://lanyard.cnrad.dev/api/855299071673368646?borderRadius=5px&idleMessage=don%27t+click&bg=a&animated=true" align="right">
+</a>
+
 ### <img src="Assets/hmm.gif" width="25px" height="25px"> Curiosities:
 
 - 🌱  Learning many things;
 - 🎧  I listen to different genres of music;
+- 💻  Computer Scientist in Training;
+- 🎓  Currently focused on the academic area;
 - 💬  Ask me about anything, I'll be happy to help.
 
 ### <img src="Assets/powerup.gif" width="25px" height="25px"> Technologies:
