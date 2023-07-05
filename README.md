@@ -75,3 +75,11 @@ return response.status(201).send();
 <img height="210px" src="https://github-readme-stats.vercel.app/api?username=dbreskovit&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=radical&hide_border=true">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=radical&hide_border=true">
 </div>
+
+## Listening <img src="https://media3.giphy.com/media/SBPsoblpU8IhYIXWGk/giphy.gif?cid=ecf05e47xuvmorzzg704omcyhkjaatgeag84awrwuluswqsc&ep=v1_gifs_related&rid=giphy.gif" width="100px" height="100px" align="right">
+
+<p align="center">
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=64yj7wr277h7mbf01u1f5npgx">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=64yj7wr277h7mbf01u1f5npgx&custom_title=Spotify&hide_explicit=1" alt="Data Card for Spotify">
+</a>
+</p>
