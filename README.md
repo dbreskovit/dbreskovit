@@ -63,7 +63,7 @@ return response.status(201).send();
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dbreskovit&theme=rogue&hide_border=true&line=fe428e&bg_color=141321&title_color=fe428e">
 
-<img align="left" height="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbreskovit&langs_count=8&theme=radical&hide_border=true&layout=donut">
+<img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbreskovit&langs_count=8&theme=radical&hide_border=true">
 <div align="right">
 <img height="210px" src="https://github-readme-stats.vercel.app/api?username=dbreskovit&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=radical&hide_border=true">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=radical&hide_border=true">
