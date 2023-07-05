@@ -55,7 +55,8 @@ return response.status(201).send();
 - 🎓  Currently focused on the academic area;
 - 💬  Ask me about anything, I'll be happy to help.
 
-### <img src="Assets/powerup.gif" width="25px" height="25px"> Technologies:
+
+## <img src="Assets/powerup.gif" width="25px" height="25px"> Technologies:
 
 <p align="center">
   <a href="https://skillicons.dev">
