@@ -33,7 +33,10 @@ async user.index({
   age: 17,
   birthday: '25/08',
   vocation: 'Programming',
-  formation: ['Téc. Info IFFar SA'],
+  formation: [
+    ['Técnico em Informática','IFFAR-SA'],
+    ['Ciência da Computação','IFFAR-FW']
+  ],
   nationality: 'Brazilian'
 });
 
@@ -43,9 +46,7 @@ return response.status(201).send();
 ### <img src="Assets/hmm.gif" width="25px" height="25px"> Curiosities:
 
 - 🌱  Learning many things;
-- 🎓  I attended the Computer Technician integrated to high school at IFFar SA;
-- 📚  I want to study computer science;
-- 📖  Currently reading about: Clean Code;
+- 🎧  I listen to different genres of music;
 - 💬  Ask me about anything, I'll be happy to help.
 
 ### <img src="Assets/powerup.gif" width="25px" height="25px"> Technologies:
@@ -64,11 +65,8 @@ return response.status(201).send();
 
 <img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbreskovit&langs_count=8&theme=radical&hide_border=true">
 <div align="right">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=dbreskovit&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=radical&hide_border=true">
+<img height="210px" src="https://github-readme-stats.vercel.app/api?username=dbreskovit&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=radical&hide_border=true">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=radical&hide_border=true">
 </div>
 
-<!--
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=header"/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9644CD&height=120&section=footer"/>
--->
