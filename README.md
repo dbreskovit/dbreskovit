@@ -52,7 +52,7 @@ return response.status(201).send();
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,js,ts,c,cs,php,java,py,react,nodejs,laravel,spring)" />
+    <img src="https://skillicons.dev/icons?i=java,php,py,c,js,ts,html,css,bootstrap,tailwind,react,nextjs,nodejs,laravel,spring,postman,docker,git&perline=9" />
   </a>
 </p>
 
