@@ -76,7 +76,7 @@ return response.status(201).send();
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=radical&hide_border=true">
 </div>
 
-## Listening <img src="https://media3.giphy.com/media/SBPsoblpU8IhYIXWGk/giphy.gif?cid=ecf05e47xuvmorzzg704omcyhkjaatgeag84awrwuluswqsc&ep=v1_gifs_related&rid=giphy.gif" width="100px" height="100px" align="right">
+## Songs <img src="https://media3.giphy.com/media/SBPsoblpU8IhYIXWGk/giphy.gif?cid=ecf05e47xuvmorzzg704omcyhkjaatgeag84awrwuluswqsc&ep=v1_gifs_related&rid=giphy.gif" width="100px" height="100px" align="right">
 
 <p align="center">
 <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=64yj7wr277h7mbf01u1f5npgx">
