@@ -2,7 +2,7 @@
 
 <img src="Assets/banner.gif" cite="https://galoupop.tumblr.com/image/145423398021">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9644CD&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Diego+Breskovit;I+am+Software+Developer;Future+Computer+Scientist;Welcome+to+my+Github+:%29)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9644CD&center=true&vCenter=true&width=1000&lines=Hello%2C+my+name+is+Diego+Breskovit;I+am+Software+Developer;Welcome+to+my+Github+:%29)
 
 <samp>
   <p align="center">
