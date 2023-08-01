@@ -68,12 +68,12 @@ return response.status(201).send();
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdbreskovit&label=Views&labelColor=%23141321&countColor=%23fe428e)
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dbreskovit&theme=rogue&hide_border=true&line=fe428e&bg_color=141321&title_color=fe428e">
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dbreskovit&theme=rogue&hide_border=true&line=fe428e&bg_color=transparent&title_color=fe428e">
 
-<img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbreskovit&langs_count=8&theme=radical&hide_border=true">
+<img align="left" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbreskovit&langs_count=8&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
 <div align="right">
-<img height="210px" src="https://github-readme-stats.vercel.app/api?username=dbreskovit&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=radical&hide_border=true">
-<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=radical&hide_border=true">
+<img height="210px" src="https://github-readme-stats.vercel.app/api?username=dbreskovit&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
+<img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=transparent&border=E4E2E2&stroke=E4E2E2&ring=FE428E&fire=FE428E&currStreakNum=F8D847&sideNums=FE428E&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7&excludeDaysLabel=A9FEF7&hide_border=true">
 </div>
 
 ## Songs <img src="https://media3.giphy.com/media/SBPsoblpU8IhYIXWGk/giphy.gif?cid=ecf05e47xuvmorzzg704omcyhkjaatgeag84awrwuluswqsc&ep=v1_gifs_related&rid=giphy.gif" width="100px" height="100px" align="right">
