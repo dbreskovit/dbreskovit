@@ -75,11 +75,3 @@ return response.status(201).send();
 <img height="210px" src="https://github-readme-stats.vercel.app/api?username=dbreskovit&show_icons=true&custom_title=Diego's%20Github%20Stats&theme=transparent&title_color=fe428e&text_color=a9fef7&icon_color=f8d847&hide_border=true">
 <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=dbreskovit&theme=transparent&border=E4E2E2&stroke=E4E2E2&ring=FE428E&fire=FE428E&currStreakNum=F8D847&sideNums=FE428E&currStreakLabel=F8D847&sideLabels=FE428E&dates=A9FEF7&excludeDaysLabel=A9FEF7&hide_border=true">
 </div>
-
-## Songs <img src="https://media3.giphy.com/media/SBPsoblpU8IhYIXWGk/giphy.gif?cid=ecf05e47xuvmorzzg704omcyhkjaatgeag84awrwuluswqsc&ep=v1_gifs_related&rid=giphy.gif" width="100px" height="100px" align="right">
-
-<p align="center">
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=64yj7wr277h7mbf01u1f5npgx">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=64yj7wr277h7mbf01u1f5npgx&custom_title=Spotify&hide_explicit=1" alt="Data Card for Spotify">
-</a>
-</p>
