@@ -44,7 +44,7 @@ return response.status(201).send();
 ```
 
 <a href="https://discord.com/users/855299071673368646">
-  <img src="https://lanyard.cnrad.dev/api/855299071673368646?borderRadius=5px&idleMessage=don%27t+click&bg=a&animated=true" align="right">
+  <img src="https://lanyard.cnrad.dev/api/389591220877524994?borderRadius=5px&idleMessage=don%27t+click&bg=a&animated=true" align="right">
 </a>
 
 ### <img src="Assets/hmm.gif" width="25px" height="25px"> Curiosities:
