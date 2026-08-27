@@ -26,7 +26,7 @@
 ```javascript
 async user.index({
   name: 'Diego Breskovit',
-  age: 20,
+  age: 21,
   birthday: '25/08',
   vocation: 'Programming',
   formation: [
